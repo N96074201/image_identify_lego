@@ -1,0 +1,17 @@
+<package>
+  <description brief="image_identification">
+
+     image_identification
+
+  </description>
+  <author>makerlab</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/image_identification</url>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+  <depend package="std_msgs"/>
+
+</package>
+
+
